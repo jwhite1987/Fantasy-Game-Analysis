@@ -1,43 +1,43 @@
 {
-    "project_name": "new project",
+    "project_name": "Heroes Of Pymoli",
     "version": "0.0.1",
-    "description": "new project",
+    "description": "Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.",
     "snap_store_name": null,
     "icon_src": null,
     "screenshot_src": null,
-    "author": "your name",
-    "github_username": null,
+    "author": "Jimmy White",
+    "github_username": "jimmywhite87",
     "author_linkedin_username": null,
     "author_twitter_username": null,
-    "author_website": null,
-    "homepage": "https://github.com/pedroermarinho/markdown-readme-generator#readme",
-    "project_demo_url": "https://github.com/pedroermarinho/markdown-readme-generator#readme",
-    "repository_url": "https://github.com/pedroermarinho/markdown-readme-generator",
-    "contributing_url": "https://github.com/pedroermarinho/markdown-readme-generator/blob/master/CONTRIBUTING.md",
-    "documentation_url": "https://github.com/pedroermarinho/markdown-readme-generator#readme",
-    "license_url": "https://github.com/pedroermarinho/markdown-readme-generator/blob/master/LICENSE",
-    "issues_url": "https://github.com/pedroermarinho/markdown-readme-generator/issues",
-    "license": "MIT",
+    "author_website": "https://www.jwhiteanalytics.com",
+    "homepage": null,
+    "project_demo_url": "https://jimmywhite1987.github.io/Heroes-Of-Pymoli/",
+    "repository_url": null,
+    "contributing_url": null,
+    "documentation_url": null,
+    "license_url": null,
+    "issues_url": null,
+    "license": null,
     "install_command": [
-        "pip3 install markdown-readme-generator"
+        "Not needed"
     ],
     "usage_command": [
-        "mrgenerator-cli"
+        "Visit the Demo Page Above"
     ],
     "test_command": [
-        "python3 run.py"
+        null
     ],
     "repository": {
         "type": "git",
-        "url": "git@github.com:pedroermarinho/markdown-readme-generator.git"
+        "url": null
     },
     "credits": [
         {
-            "name": "Markdown Readme Generator",
-            "url": "https://github.com/pedroermarinho/markdown-readme-generator"
+            "name": null,
+            "url": null
         }
     ],
     "is_github_repos": true,
-    "has_start_command": true,
-    "has_test_command": true
+    "has_start_command": false,
+    "has_test_command": false
 }

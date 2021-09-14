@@ -1,52 +1,31 @@
-<h1 align="center">
+# `Fantasy Game Analysis`
 
-Welcome to Heroes Of Pymoli 👋
+## Project Description
 
-</h1>
-<p>
-<img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-
-<a href="None/graphs/commit-activity" target="_blank"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /></a>
+-  The goal of this project is to take the dataset from the fictional game, 'Heroes of Pymoli', which includes in-app purchases, and then break down the data along gender and age demographics.
+- Then, determine from the dataset who the top spenders are, what items are most popular, and which items are the most profitable.
+- The breakdown of the dataset will be facilitated through the use of Python as well as Pandas DataFrames.
 
 
-</p>
+## Languages & Technology Used
 
-> Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+- Python
+- Pandas
+- Jupyter Notebook
 
-### ✨ [Demo](https://jimmywhite1987.github.io/Heroes-Of-Pymoli/)
-## Install
-```sh
-Not needed
+## Screenshots
+![image](/Images/screenshot1.png)
 
-```
+![image](/Images/screenshot2.png)
 
-## Usage
-```sh
-Visit the Demo Page Above
+![image](/Images/screenshot3.png)
 
-```
+![image](/Images/screenshot4.png)
 
-## Run tests
-```sh
-None
+![image](/Images/screenshot5.png)
 
-```
+![image](/Images/screenshot6.png)
 
-## Author
-👤 **Jimmy White**
-* Website: https://www.jwhiteanalytics.com
-
-* GitHub: [@jimmywhite87](https://github.com/{github_username})
-
-
-
-
-
-## Show your support
-Give a ⭐️ if this project helped you!
-## Credits
-**[None](None)**
-
-
----
-_This README was created with the [markdown-readme-generator](https://github.com/pedroermarinho/markdown-readme-generator)_
+## Links
+- [JWhiteAnalytics.com](https://jwhiteanalytics.com)
+- [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)

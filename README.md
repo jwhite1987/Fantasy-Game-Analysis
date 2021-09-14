@@ -1,4 +1,4 @@
-# `Fantasy Game Analysis`
+# `Fantasy Game Analysis Exploration`
 
 ## Project Description
 
